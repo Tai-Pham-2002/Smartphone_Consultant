@@ -29,8 +29,7 @@ This AI agent is made to assist a customer to get best desired product specifica
 │   ├── prompts.py
 │   ├── utils.py
 │   ├── config.py
-│   ├── models.py
-│   └── ShopGenie.ipynb
+│   └── models.py
 ├── requirements.txt
 └── README.md
 ```
