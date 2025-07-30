@@ -1,12 +1,5 @@
 # Smartphone Consultant
 Smartphone consultant is an AI-powered agent designed to enhance the online shopping experience by providing personalized product recommendations.
-
-
-
-# **Smartphone Consultant**
-Redifining the concept of Online shopping customer experience with agentic AI.
-
-
 ---
 
 # Overview
