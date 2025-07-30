@@ -35,5 +35,5 @@ This AI agent is made to assist a customer to get best desired product specifica
 ```
 
 ## Setup and run
-Set up API keys in your environment variables. (Create .env file and add your api keys)
-Run main.py with appropriate query and email inputs.
+- Set up API keys in your environment variables. (Create .env file and add your api keys)
+- Run main.py with appropriate query and email inputs.
