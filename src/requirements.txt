@@ -1,0 +1,7 @@
+langchain-groq 
+langgraph 
+tavily-python 
+google-api-python-client 
+langchain-community  
+beautifulsoup4 
+     
